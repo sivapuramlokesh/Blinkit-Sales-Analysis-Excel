@@ -5,7 +5,7 @@ Excel dashboard project analyzing Blinkit Grocery sales data. Includes data clea
 This project analyzes Blinkit's grocery sales data (8,523 records) using Microsoft Excel.  
 The goal is to evaluate **sales performance, customer satisfaction, and outlet distribution** using key KPIs and an interactive dashboard.
 
-##⚙️ Tools Used
+## ⚙️ Tools Used
 - Microsoft Excel
   - Pivot Tables
   - Pivot Charts
