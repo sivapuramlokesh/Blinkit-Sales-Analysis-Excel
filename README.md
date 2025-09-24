@@ -21,7 +21,7 @@ The goal is to evaluate **sales performance, customer satisfaction, and outlet d
 ## 📊 Dashboard Preview
 Here is the final interactive dashboard built in Excel:
 
-![Blinkit Dashboard](Dashboard_Screenshot.png)
+![Blinkit Dashboard](Blinkit-Sales-Analysis-Dashboard.png)
 
 ## 📈Dashboard Features
 - Sales by Fat Content → Donut Chart  
@@ -40,7 +40,7 @@ Here is the final interactive dashboard built in Excel:
 
 ## 📂 Files in Repository
 - `Blinkit Grocery Data Excel.xlsx Dataset + Dashboard  
-- `Dashboard_Screenshot.png` → Dashboard Preview  
+- `Blinkit-Sales-Analysis-Dashboard.png` → Dashboard Preview  
 
 ## 🔗 How to View
 - Download the Excel file and explore the dashboard using **Microsoft Excel**.
